@@ -54,7 +54,7 @@ h3 {
 }
 
 .Top-Container {
- background-color: #0e2574;
+  background-image: url("/images/bg.png");
   position: relative;
   padding-top: 100px;
 }
