@@ -45,7 +45,7 @@ h3 {
 .cloud2 {
   width: 20%;
   position: absolute;
-  top: 350px;
+  top: 30px;
   left: 10%;
   opacity: 50%;
   color: black;
@@ -57,6 +57,7 @@ h3 {
   background-image: url("/images/bg.png");
   position: relative;
   padding-top: 100px;
+  padding-bottam:30%;
 }
 
 .skill-row {
