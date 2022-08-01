@@ -5,6 +5,8 @@ body {
 }
 p {
   line-height: 2;
+  font-size: 150%;
+  font-family: 'Bree Serif', serif;
 }
 
 h1 {
@@ -45,12 +47,14 @@ h3 {
   position: absolute;
   top: 350px;
   left: 10%;
+  opacity: 50%;
+  color: black;
 }
 .mountain {
 }
 
 .Top-Container {
-  background-color: #9ce1d4;
+  background-image: url("/images/bg.jpg");
   position: relative;
   padding-top: 100px;
 }
@@ -72,19 +76,39 @@ h3 {
   margin-left: 30px;
   float: right;
 }
+.skill-text1{
+  font-family: 'Bree Serif', serif;
+  font-size: 130%;
+}
+.skill-text2{
+  font-family: 'Bree Serif', serif;
+  font-size: 130%;
+}
+.skill-text{
+  font-family: 'Bree Serif', serif;
+  font-size: 150%;
+
+}
 
 .intro {
   width: 30%;
   margin: auto;
+  font-family: 'Bree Serif', serif;
+  font-size: 150%;
 }
+/* .gamer{
+  font-size: 150%;
+} */
 
 .contact-message {
   width: 50%;
   margin: 40px auto 60px;
+  font-family: 'Bree Serif', serif;
+  font-size: 130%;
 }
 
 .Middle-Container {
-  margin: 100px 0;
+  margin: 1% ;
 }
 
 .btn {
@@ -115,22 +139,95 @@ h3 {
 }
 
 a {
-  color: #097c7c;
+  color: #ffffff;
   text-decoration: none;
   font-family: "Montserrat", sans-serif;
   margin: 10px;
-  font-size: larger;
+  font-size: 170%;
 }
 
 a:hover{
-    color: #EAF6F6;
+    color: #c3dcec;
 }
 .copyright{
     color: #EAF6F6;
     font-size: small;
     padding: 15px 0;
 }
-.Bottom-Container {
-  background-color: #5ecfba;
-  padding: 50px 0 20px;
+/* .Bottom-Container {
+  background-color: #000000;
+  padding-top:  3% ;
+} */
+
+/* .Bottom-Container p{
+  margin-top: 15%;
+} */
+/* .foot{
+  background-color: black;
+  padding-top: 20%;
 }
+.foot a{
+  padding-bottom: 0%;
+} */
+footer{
+  background-color: black;
+  color: rgb(255, 255, 255);
+  font-size: 17px;
+  padding: 10px 12px;
+
+}
+.foot{
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+.skills h2{
+  color: #f34f4f;
+  font: bold;
+  font-size: 500%;
+}
+.insta {
+ 
+  font-size: 120%;
+  color: #ff0095;
+  font: bold;
+ 
+}
+.you{
+  font-size: 135%;
+  color: #ff0000;
+  font: bold;
+  
+}
+/* .sub{
+  background:
+      linear-gradient(red, transparent),
+      linear-gradient(to top left, lime, transparent),
+      linear-gradient(to top right, blue, transparent);
+  background-blend-mode: screen;
+} */
+.foot y{
+  color: #ff0000;
+ 
+}
+.foot i{
+  color: #e94994;
+}
+.foot l{
+  color: #11198b;
+}
+.foot t{
+  color: #0084ff;
+}
+.foot w{
+  color: #80c4fc;
+}
+.skill-text i:hover{
+color: #dd0808;}
+
+
+ 
+ 
+
+
+
+
