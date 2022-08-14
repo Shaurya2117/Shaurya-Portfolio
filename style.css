@@ -45,7 +45,7 @@ h3 {
 .cloud2 {
   width: 20%;
   position: absolute;
-  top: 30px;
+  top: 30%;
   left: 10%;
   opacity: 50%;
   color: black;
@@ -54,10 +54,10 @@ h3 {
 }
 
 .Top-Container {
-  background-image: url("images/bg.jpg");
+  background-image: url("/images/bg.png");
   position: relative;
   padding-top: 100px;
-  padding-bottam:30%;
+  padding-bottom: 30%;
 }
 
 .skill-row {
@@ -103,7 +103,7 @@ h3 {
 
 .contact-message {
   width: 50%;
-  margin: 40px auto 60px;
+  margin: 40px auto 0px;
   font-family: 'Bree Serif', serif;
   font-size: 130%;
 }
@@ -173,7 +173,7 @@ a:hover{
 footer{
   background-color: black;
   color: rgb(255, 255, 255);
-  font-size: 17px;
+  font-size: 13px;
   padding: 10px 12px;
 
 }
@@ -208,23 +208,22 @@ footer{
 } */
 .foot y{
   color: #ff0000;
- margin-right:3%
+ margin-bottom: 3%;
 }
 .foot i{
   color: #e94994;
-   margin-right:3%
+  margin-bottom: 3%;
 }
 .foot l{
   color: #11198b;
-   margin-right:3%
+  margin-bottom: 3%;
 }
 .foot t{
   color: #0084ff;
-   margin-right:3%
+  margin-bottom: 3%;
 }
 .foot w{
   color: #80c4fc;
-/*    margin-right:3% */
 }
 .skill-text i:hover{
 color: #dd0808;}
