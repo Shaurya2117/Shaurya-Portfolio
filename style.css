@@ -208,19 +208,23 @@ footer{
 } */
 .foot y{
   color: #ff0000;
- 
+ margin-right:3%
 }
 .foot i{
   color: #e94994;
+   margin-right:3%
 }
 .foot l{
   color: #11198b;
+   margin-right:3%
 }
 .foot t{
   color: #0084ff;
+   margin-right:3%
 }
 .foot w{
   color: #80c4fc;
+/*    margin-right:3% */
 }
 .skill-text i:hover{
 color: #dd0808;}
